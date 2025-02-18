@@ -22,3 +22,16 @@ The goal of this dashboard is to provide a comprehensive analysis of sales perfo
 
 - Dashboard Interaction  <a href= "https://github.com/Shiva-Krishna-96/Data-Analysis-Dashboard/blob/main/Dashboard.PNG"> View Dashboard </a>
 
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Make sure data is consistent and clean with respect to data type, data formant and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+
+## Dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/7e1bb386-8767-4447-ba8e-cf1771671f51)
+
+
+
