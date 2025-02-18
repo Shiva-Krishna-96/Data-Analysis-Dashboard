@@ -20,5 +20,5 @@ The goal of this dashboard is to provide a comprehensive analysis of sales perfo
 - Which locations are generating the highest sales?
 - How does product demand vary by location?
 
-- Dashboard Interaction 
+- Dashboard Interaction  <a href= "https://github.com/Shiva-Krishna-96/Data-Analysis-Dashboard/blob/main/Dashboard.PNG"> View Dashboard </a>
 
