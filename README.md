@@ -20,3 +20,5 @@ The goal of this dashboard is to provide a comprehensive analysis of sales perfo
 - Which locations are generating the highest sales?
 - How does product demand vary by location?
 
+- Dashboard Interaction 
+
