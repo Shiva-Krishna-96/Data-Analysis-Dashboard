@@ -32,6 +32,9 @@ The goal of this dashboard is to provide a comprehensive analysis of sales perfo
 ## Dashboard
 
 ![Dashboard](https://github.com/user-attachments/assets/7e1bb386-8767-4447-ba8e-cf1771671f51)
+![Dashboard1](https://github.com/user-attachments/assets/86d2cf80-a51d-4ea7-ad1c-1b956bf54506)
+![Dashboard2](https://github.com/user-attachments/assets/db3b0066-8ff6-4682-9eec-d44a99ee9781)
+
 
 ## Project Insight
 - Furniture, LED TVs, and Mobiles drive the highest revenue.
